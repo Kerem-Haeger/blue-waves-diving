@@ -1,0 +1,23 @@
+/* Google fonts import */
+
+/* Asterisk wildcard selector to override default styles added by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* global styles */
+header {
+    background-color: teal;
+}
+
+main {
+    background-color: violet;
+}
+
+footer {
+    background-color: orange;
+}
+
+/* Header */
