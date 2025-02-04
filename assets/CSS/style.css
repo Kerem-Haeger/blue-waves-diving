@@ -21,3 +21,25 @@ footer {
 }
 
 /* Header */
+
+/* Nav bar*/
+.navigation {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.logo {
+    width: 200px;
+}
+
+.navigation > div {
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 0px;
+    text-align: center;
+  }
+
+.active {
+    background-color: white;
+}
