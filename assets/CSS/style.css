@@ -10,35 +10,35 @@ body, html {
 /* Header */
 
 .nav-bar {
-    background-color: #0097A7; /* Teal Color */
+    background-color: #0097A7;
     position: fixed;
     top: 1em;
     left: 10%;
     display: flex;
-    justify-content: center; /* Center Elements */
-    width: 80%; /* Span 90% of the screen width */
-    margin: auto; /* Center horizontally */
-    border-radius: 0; /* Optional: Slightly rounded lower corners */
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    border-radius: 0;
 }
 
 .nav-link {
-    color: white; /* Text Color */
+    color: white;
     text-decoration: none;
     padding: 0 50px; /* Spacing between links */
     height: 100%; /* Take full height of nav-bar */
     display: flex;
-    align-items: center; /* Vertically center text within link */
+    align-items: center;
     transition: background-color 0.3s, color 0.3s; /* Smooth transition */
 }
 
 .nav-link:hover,.nav-link.active {
-    background-color: white; /* Active/Hover Background */
-    color: #0097A7; /* Active/Hover Text Color */
+    background-color: white; 
+    color: #0097A7;
 }
 
 /* Example Styling for Sections (Optional) */
 section {
-    height: 90vh; /* Make each section full viewport height for demonstration */
+    height: 90vh; 
     display: flex;
     justify-content: center;
     align-items: center;
