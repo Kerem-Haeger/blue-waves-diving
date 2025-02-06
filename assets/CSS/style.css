@@ -34,15 +34,6 @@ header {
     padding: 0;
 }
 
-/* Example Styling for Sections (Optional) */
-/*section {
-    height: 90vh; 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 24px;
-}*/
-
 #home { 
     background: url("/assets/images/hero-turtle.jpg") no-repeat center center/cover;
     height: 90vh; 
@@ -76,16 +67,32 @@ h3 {
 #gallery { background-color: greenyellow; height: 90vh; }
 #contact { background-color: lightskyblue; height: 90vh; }
 
+/* Footer */
+#social-networks {
+    text-align: center;
+    padding: 5px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #39cbdb;
+}
+
 /* Button to scroll back to the menu*/
 .scroll-top {
     position: fixed;
     bottom: 20px;
     right: 7px;
     padding: 10px 20px;
-    color: white;
+    color: #39cbdb;
     font-size: 2rem;
 }
 
+/* Media queries */
 @media screen and (min-width: 768px) {
 
     header {
@@ -112,7 +119,7 @@ h3 {
     .nav-link {
         color: white;
         text-decoration: none;
-        padding: 0 40px; /* Spacing between links */
+        padding: 0px 40px; /* Spacing between links */
         height: 100%; /* Occupy full height of nav-bar */
         display: flex;
         align-items: center;
