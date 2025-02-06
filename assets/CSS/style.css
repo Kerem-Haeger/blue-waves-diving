@@ -9,6 +9,10 @@ body, html {
     scroll-behavior: smooth;
 }
 
+.hidden-heading {
+    display: none;
+}
+
 /* Header on small screens */
 
 header {
@@ -84,7 +88,29 @@ h3 {
     height: 50vw;
 }
 
+.about-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about-content {
+    margin: 10px 0;
+    width: 100%;
+}
+
 #gallery { background-color: greenyellow; height: 90vh; }
+
+/* Gallery page */
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
+
+#photos {
+    line-height: 0;
+}
+
 #contact { background-color: lightskyblue; height: 90vh; }
 
 /* Footer */
@@ -168,6 +194,26 @@ h3 {
         text-align: center;
         margin-bottom: 250px;
         width: fit-content;
+    }
+
+    .about-container {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center; 
+    }
+
+    .about-content {
+        width: 45%;
+        margin: 10px;
+    }
+
+    .dive-center-image, .dive-boat-image {
+        max-height: 250px;
+    }
+
+    /* Gallery page */
+    #photos {
+        column-count: 3;
     }
 
     .scroll-top {
