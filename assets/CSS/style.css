@@ -99,7 +99,12 @@ h3 {
     width: 100%;
 }
 
-#gallery { background-color: greenyellow; height: 90vh; }
+/* Gallery section on index */
+#gallery {
+    background-color: lightskyblue;
+    text-align: center;
+    padding: 1rem 0;
+}
 
 /* Gallery page */
 #photos img {
@@ -111,7 +116,24 @@ h3 {
     line-height: 0;
 }
 
-#contact { background-color: lightskyblue; height: 90vh; }
+#gallery-cover-bg {
+    background: url('../images/underwater-photography.jpg') no-repeat top center / cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    /* Makes the square image into a circle */
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+#gallery-cover {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#contact { background-color: violet; height: 90vh; }
 
 /* Footer */
 #social-networks {
