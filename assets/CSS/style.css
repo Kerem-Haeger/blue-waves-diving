@@ -28,18 +28,28 @@ header {
 #nav-menu:checked~nav {
     display: flex;
     flex-direction: column;
+    padding: 0;
 }
 
+
 /* Example Styling for Sections (Optional) */
-section {
+/*section {
     height: 90vh; 
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 24px;
+}*/
+
+#home { 
+    background: url("/assets/images/hero-turtle.jpg") no-repeat center center/cover;
+    height: 90vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px; 
 }
 
-#home { background-color: orange; }
 #about { background-color: violet; }
 #gallery { background-color: greenyellow; }
 #contact { background-color: lightskyblue; }
