@@ -133,7 +133,7 @@ h3 {
 }
 
 #gallery-cover-bg {
-    background: url('../images/underwater-photography.jpg') no-repeat top center / cover;
+    background: url("../images/underwater-photography.jpg") no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
@@ -148,7 +148,47 @@ h3 {
     justify-content: center;
 }
 
-#contact { background-color: violet; height: 90vh; }
+/* work on this! */
+#contact {
+    background: url("/assets/images/mask-sand.jpg") no-repeat center center / cover;
+    height: 90vw; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-form {
+    background-color: rgba(0, 0, 0, .5);
+    color: #ffffff;
+    padding: 0 10px;
+}
+
+.input-field {
+    background: transparent;
+    color: #fafafa;
+    width: 80%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+
+/* Textarea should not be limited by input-field height */
+textarea {
+    background: transparent;
+    color: #fafafa;
+    width: 80%;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+
+select option {
+    background-color: #383838;
+}
 
 /* Footer */
 #social-networks {
@@ -172,7 +212,7 @@ h3 {
     right: 7px;
     padding: 10px 20px;
     color: rgba(57, 203, 219, .8);
-    font-size: 2rem;
+    font-size: 2.5rem;
 }
 
 /* Media queries */
