@@ -38,6 +38,7 @@ header {
     display: flex;
     flex-direction: column;
     padding: 0;
+    margin-left: 10px;
 }
 
 /* Main  */
@@ -194,7 +195,7 @@ h3 {
 }
 
 .button {
-    background-color: #39cbdb;
+    background-color: #1fa5b4;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -233,7 +234,7 @@ select option {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #39cbdb;
+    color: rgb(30, 164, 179);
 }
 
 /* Button to scroll back to the menu*/
@@ -242,7 +243,7 @@ select option {
     bottom: 20px;
     right: 7px;
     padding: 10px 20px;
-    color: rgba(57, 203, 219, .8);
+    color: rgba(30, 164, 179, .8);
     font-size: 2.5rem;
 }
 
@@ -259,7 +260,7 @@ select option {
     }
     
     .nav-bar {
-        background-color: #39cbdb;
+        background-color: #1fa5b4;
         position: fixed;
         top: 1em;
         display: flex;
@@ -284,7 +285,7 @@ select option {
     /* Work on this */
     .nav-link:hover, .nav-link:active {
         background-color: white; 
-        color: #39cbdb;
+        color: #1fa5b4;
     }  
 
     #home {
@@ -357,6 +358,7 @@ select option {
             margin-right: auto;
         }
 
+        /* Contact Section */
         #contact {
             max-width: 78%;
             margin-left: auto;
