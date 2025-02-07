@@ -1,6 +1,7 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
+/* Global Styles */
 body, html {
     padding: 0;
     margin: 0;
@@ -40,6 +41,7 @@ header {
 }
 
 /* Main  */
+/* Home Section */
 #home { 
     background: url("/assets/images/hero-turtle.jpg") no-repeat center center/cover;
     height: 90vh; 
@@ -121,7 +123,6 @@ h3 {
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
-    /* Makes the square image into a circle */
     border-radius: 50%;
     max-width: 300px;
     max-height: 300px;
@@ -236,6 +237,8 @@ h3 {
     /* Gallery page */
     #photos {
         column-count: 3;
+        padding-top: 90px;
+        line-height: 0
     }
 
     .scroll-top {
