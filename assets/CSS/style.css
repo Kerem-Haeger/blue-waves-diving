@@ -15,7 +15,6 @@ body, html {
 }
 
 /* Header on small screens */
-
 header {
     box-shadow: 0 2px 2px #3a3a3a; /* Work on Box Shadow! */
     z-index: 98;
@@ -103,6 +102,19 @@ h3 {
     flex-direction: row-reverse;
     flex-wrap: wrap;
     justify-content: center;
+}
+
+table {
+    max-width: 320px;
+}
+
+th {
+    padding-bottom: 10px;
+}
+
+td {
+    padding-right: 15px;
+    padding-bottom: 10px;
 }
 
 /* .about-container {
@@ -288,6 +300,7 @@ select option {
         color: #1fa5b4;
     }  
 
+    /* Main section */
     #home {
         background: url("/assets/images/hero-turtle.jpg") no-repeat center center/cover;
         height: 90vh;
@@ -306,7 +319,7 @@ select option {
         width: fit-content;
     }
 
-    #about-heading {
+    #about-heading, #offers-heading {
         display: flex;
         justify-content: center;
     }
@@ -325,6 +338,13 @@ select option {
     .dive-center-image, .dive-boat-image {
         max-height: 250px;
         max-width: 500px;
+    }
+
+    #offers {
+        display: flex;
+        flex-direction: row;
+        align-items: top;
+        justify-content: space-evenly;
     }
 
     /* Gallery page */
