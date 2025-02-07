@@ -6,7 +6,7 @@ body, html {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: "Encode Sans Condensed", serif;
+    font-family: "Encode Sans Condensed", sans-serif;
     scroll-behavior: smooth;
 }
 
