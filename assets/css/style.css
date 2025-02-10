@@ -338,6 +338,12 @@ select option {
         margin: 10px;
     }
 
+    /* Create rule that centers text vertically */
+    .top-about {
+        display: flex;
+        align-items: center;
+    }
+
     .dive-center-image, .dive-boat-image {
         max-height: 250px;
         max-width: 500px;
