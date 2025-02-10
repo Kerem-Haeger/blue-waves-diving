@@ -80,6 +80,10 @@ h3 {
     padding: 1em;
 }
 
+#about-heading {
+    margin-left: 1em;
+}
+
 .dive-center-image {
     background: url("../images/dive-school.jpg") no-repeat center center/cover;
     height: 50vw;
