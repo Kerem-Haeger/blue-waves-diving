@@ -43,7 +43,7 @@ header {
 /* Main  */
 /* Home Section */
 #home { 
-    background: url("/assets/images/hero-turtle.jpg") no-repeat center center/cover;
+    background: url("assets/images/hero-turtle.jpg") no-repeat center center/cover;
     height: 90vh; 
     display: flex;
     flex-direction: column;
@@ -81,12 +81,12 @@ h3 {
 }
 
 .dive-center-image {
-    background: url("/assets/images/dive-school.jpg") no-repeat center center/cover;
+    background: url("assets/images/dive-school.jpg") no-repeat center center/cover;
     height: 50vw;
 }
 
 .dive-boat-image {
-    background: url("/assets/images/dive-boat.jpg") no-repeat center center/cover;
+    background: url("assets/images/dive-boat.jpg") no-repeat center center/cover;
     height: 50vw;
 }
 
@@ -146,7 +146,7 @@ td {
 }
 
 #gallery-cover-bg {
-    background: url("../images/underwater-photography.jpg") no-repeat top center / cover;
+    background: url("assets/images/underwater-photography.jpg") no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
@@ -180,7 +180,7 @@ td {
 /* Contact section */
 /* work on this! */
 #contact {
-    background: url("/assets/images/mask-sunset.jpg") no-repeat center center/cover;
+    background: url("assets/images/mask-sunset.jpg") no-repeat center center/cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -302,7 +302,7 @@ select option {
 
     /* Main section */
     #home {
-        background: url("/assets/images/hero-turtle.jpg") no-repeat center center/cover;
+        background: url("assets/images/hero-turtle.jpg") no-repeat center center/cover;
         height: 90vh;
         display: flex;
         flex-direction: column;
