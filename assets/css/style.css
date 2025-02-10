@@ -225,7 +225,10 @@ textarea {
     letter-spacing: 2px;
   }
 
-
+.button:hover {
+    background-color: white;
+    color: #1fa5b4;
+}
 
 /* Textarea should not be limited by input-field height */
 textarea {
