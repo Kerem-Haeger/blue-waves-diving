@@ -208,6 +208,11 @@ td {
     padding: 0 5px;
 }
 
+textarea {
+    max-width: 350px;
+    max-height: 100px;
+}
+
 .button {
     background-color: #1fa5b4;
     border: none;
@@ -219,6 +224,8 @@ td {
     font-family: "Encode Sans Condensed", sans-serif;
     letter-spacing: 2px;
   }
+
+
 
 /* Textarea should not be limited by input-field height */
 textarea {
@@ -337,7 +344,7 @@ select option {
         width: 45%;
         margin: 10px;
     }
-    
+
     .top-about {
         display: flex;
         align-items: center;
