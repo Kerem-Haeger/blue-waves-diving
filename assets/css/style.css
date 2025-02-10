@@ -337,8 +337,7 @@ select option {
         width: 45%;
         margin: 10px;
     }
-
-    /* Create rule that centers text vertically */
+    
     .top-about {
         display: flex;
         align-items: center;
