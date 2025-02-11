@@ -162,7 +162,7 @@ td {
 
 .reviews img {
     border-radius: 50%;
-    height: 80px;
+    height: auto;
     width: 80px;
     flex-shrink: 0;
 }
