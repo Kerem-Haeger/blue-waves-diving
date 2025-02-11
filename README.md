@@ -63,12 +63,16 @@ In this section, you should go over the different parts of your project, and des
 
 ![Testimonials](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/testimonials.png)
 
-- __Meetup Times section__
+- __Gallery section and page__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This section on the main (index.html) page is for new and returning users to peruse images of the dives, dive spots, and possible sightings underwater.
+  - As scuba diving is an incredibly visual form of entertainment, having a gallery is important to generate interest.
+  - The actual gallery is on a seperate page, which makes loading the page easier, especially on mobile devices. Further, when editing the gallery, the dive center can have their information on the main page untouched, while adding or changing up to date pictures. 
+  - The Gallery section on the home page includes a tooltip, so users understand that the image is clickable.
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Gallery section](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/gallery-section-with-tooltip.png)
+
+![Gallery page](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/gallery-page.png)
 
 - __The Footer__ 
 
