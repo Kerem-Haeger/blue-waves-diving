@@ -74,25 +74,22 @@ In this section, you should go over the different parts of your project, and des
 
 ![Gallery page](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/gallery-page.png)
 
+- __The Contact section__
+
+  - This section allows the user to contact the dive center. It appears at the bottom, to ensure the user has had enough impressions to want to get in touch. In order to process the contact requests suitably, the user can chose their experience, which helps the dive center to quickly pass the request on to the suitable person/s.
+  - Only first name and e-mail are required, as this is all that is needed in a more relaxed environment. The experience dropdown menu is on "None" by default and should be selected by the user, albeit this is not a requirement.
+
+![Contact Us](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/contact-section.png)
+
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer was taken from the "Love Running" project, as it fulfills the purpose and does not require much deviation. It is the only code borrowed and as such clearly marked in the HTML.
+  - I have removed the link to Twitter/X as I do not want to support the people behind it.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/footer.png)
 
-- __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
