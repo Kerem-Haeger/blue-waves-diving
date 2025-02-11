@@ -212,6 +212,11 @@ td {
     justify-content: center;
 }
 
+#testimonials {
+    text-align: center;
+    padding: 1rem 0;
+}
+
 /* Contact section */
 /* work on this! */
 #contact {
@@ -274,6 +279,11 @@ textarea {
     padding: 0 5px;
 }
 
+/* dropdown menu in gray, to ensure text is visible*/
+select option {
+    background-color: #383838;
+}
+
 /* Success page after signing up */
 #success {
     background: url("../images/hero-turtle.jpg") no-repeat center center/cover;
@@ -306,11 +316,6 @@ textarea {
 .back-button:hover {
     background-color: #fafafa;
     color: #1fa5b4;
-}
-
-/* dropdown menu in gray, to ensure text is visible*/
-select option {
-    background-color: #383838;
 }
 
 /* Footer */
