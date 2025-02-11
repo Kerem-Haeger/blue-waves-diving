@@ -51,14 +51,17 @@ In this section, you should go over the different parts of your project, and des
 
 - __About Us Section__
 
-  - The About Us section consists of two parts and is essential to the webiste.
+  - The About Us section consists of three parts and is essential to the webiste.
   - First of all it introduces the center and its morals, such as an environmentally friendly approach to diving, providing certified instructors by PADI, which should put the users mind at ease when considering booking with the center.
   - The second important part of the About Us section is "What we offer". Here the user can see the different options they have as well as the prices at a glance.
   - The About Us section is very responsive and collapses on small screens in order to maximise readability.
+  - Thirdly, the user can see what previous customers have to say about the center, thus verifying the claims made on the website.
 
 ![About Us](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/about-us-section.png)
 
 ![Pricing](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/pricing-about-us-section.png)
+
+![Testimonials](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/testimonials.png)
 
 - __Meetup Times section__
 
