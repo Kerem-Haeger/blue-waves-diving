@@ -410,7 +410,7 @@ select option {
         margin: 10px;
     }
 
-    .top-about {
+    .top-about , .bottom-about {
         display: flex;
         align-items: center;
     }
