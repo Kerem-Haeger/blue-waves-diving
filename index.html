@@ -16,7 +16,7 @@
     <title>Blue Waves Diving</title>
 </head>
 <body>
-
+    <!-- Header with nav bar and nav icon for smaller screens -->
     <header>
         <input type="checkbox" id="nav-menu" class="nav-toggle">
         <label for="nav-menu" id="top" class="nav-icon"><i class="fa-solid fa-bars"></i></label>
@@ -29,7 +29,9 @@
         </nav>
     </header>
 
+    <!-- Main containing all sections -->
     <main>
+        <!-- Hero section with hero image and title -->
         <section id="home">
             <div id="title">
                 <h1>Blue Waves Diving</h1>
@@ -37,6 +39,7 @@
             </div>
         </section>
 
+        <!-- About section with information about the school and prices -->
         <section id="about">
             <h2 id="about-heading">About Us</h2>
             <div class="about-container">
@@ -70,6 +73,7 @@
                 </div>
             </div> 
 
+            <!-- Tables with pricing and different options -->
             <div id="offers-heading"><h2>What we offer</h2></div>
             <div id="offers">  
                 <div id="newbies">
@@ -104,7 +108,6 @@
                         </tr>
                     </table>
                 </div>
-
                 <div id="qualified">
                     <table>
                         <tr>
@@ -134,15 +137,16 @@
                     </table>
                 </div>
             </div>
-            
         </section>
 
+        <!-- Gallery section on index page linking to seperate gallery page -->
         <section id="gallery">
             <div class="curious">
                 <h2>Curious?<br>
                     Come and see some impressions!</h2>
             </div>
 
+            <!-- Image as link including tooltip for easier accessibility -->
             <div id="gallery-cover">
                 <a href="gallery.html" aria-label="Visit our Gallery (opens in the same tab)">
                     <div id="gallery-cover-bg" class="tooltip">
@@ -153,9 +157,10 @@
             </div>
         </section>
 
+        <!-- Contact section with contact form -->
         <section id="contact">
             <div class="contact-form">
-                <form method="post" action="https://formdump.codeinstitute.net" id="get-in-touch">
+                <form method="get" action="https://formdump.codeinstitute.net" id="get-in-touch">
                     <h2>Get in touch!</h2>
                     <label for="fname">First Name:</label><br>
                     <input type="text" name="fname" id="fname" class="input-field" required>
