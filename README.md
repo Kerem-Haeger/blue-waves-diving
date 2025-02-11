@@ -143,6 +143,10 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 
 The live link can be found here - https://kerem-haeger.github.io/blue-waves-diving/index.html
 
+### Note
+
+- I am aware that the commit messages were inconsistent in the beginning and have hopefully improved over time. A big thank you to my [tutor](https://github.com/IuliiaKonovalova), who pointed me in the right direction regarding when to commit and how to use commit messages.
+
 ## Credits  
 
 ### Content 
