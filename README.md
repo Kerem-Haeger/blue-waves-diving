@@ -8,6 +8,18 @@ Utilising an about section including easy to locate pricing for beginners and ex
 
 ![Responsive Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
+__Intended Targets__
+
+- New visitors:
+  - New vistors should get excited about what the center offers.
+  - If they are new to scuba diving, they should feel comfortable starting this journey with the center and also be able to see the pricing.
+  - If they are divers they should be able to see what the center offers in terms of pricing and diving via the gallery.
+  - New visitors should be able to get in touch with the center easily and give all necessary information in the contact form.
+
+- Returning visitors:
+  - Returning visitors can check the gallery for new pictures.
+  - They can easily get in touch with the center to organise a future dive as well as remind themselves of what is offered and how much it costs.
+
 ## Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
