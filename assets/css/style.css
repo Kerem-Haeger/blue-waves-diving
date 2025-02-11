@@ -424,7 +424,7 @@ select option {
     #offers {
         display: flex;
         flex-direction: row;
-        align-items: top;
+        align-items: start;
         justify-content: space-evenly;
     }
 
