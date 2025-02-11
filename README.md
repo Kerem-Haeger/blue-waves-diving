@@ -88,16 +88,12 @@ In this section, you should go over the different parts of your project, and des
 
 ![Footer](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/footer.png)
 
-
-
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
 ### Features Left to Implement
 
-- An addition that will make the website more user friendly and trustworthy is a Reviews Section, where the user can read about what other peopel have said about the center previously.
+- The Testimonials section could be improved by having an array of many reviews, of which the website randomly displays some for each loading.
+Further, the user should be able to cycle through the reviews via buttons on each side.
+As this is not a real business, there is no reference to where the reviews come from, however, this could be implemented, and the reviews could be made clickable to direct the user to Google Reviews or similar.
+- Information about dive spots could be included with an interactive map.
 
 ## Testing 
 
