@@ -92,6 +92,7 @@ __Intended Targets__
 Further, the user should be able to cycle through the reviews via buttons on each side.
 As this is not a real business, there is no reference to where the reviews come from, however, this could be implemented, and the reviews could be made clickable to direct the user to Google Reviews or similar.
 - Information about dive spots could be included with an interactive map.
+- Returning users could be able to leave a review directly on the webiste.
 
 ## Testing 
 
