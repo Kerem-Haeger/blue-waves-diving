@@ -93,11 +93,8 @@ h3 {
     margin-left: 1em;
 }
 
-.dive-center-image {
-    height: 50vw;
-}
-
-.dive-boat-image {
+.dive-center-image, .dive-boat-image {
+    width: auto;
     height: 50vw;
 }
 
@@ -115,6 +112,11 @@ h3 {
     justify-content: center;
 }
 
+.about-content {
+    margin: 10px 0;
+    width: 100%;
+}
+
 table {
     max-width: 320px;
 }
@@ -126,11 +128,6 @@ th {
 td {
     padding-right: 15px;
     padding-bottom: 10px;
-}
-
-.about-content {
-    margin: 10px 0;
-    width: 100%;
 }
 
 /* Testimonials section */
@@ -452,7 +449,7 @@ textarea {
 
     .dive-center-image, .dive-boat-image {
         max-height: 250px;
-        max-width: 500px;
+        width: auto;
     }
 
     #offers {
