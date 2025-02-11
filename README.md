@@ -113,6 +113,9 @@ As this is not a real business, there is no reference to where the reviews come 
 
 ![Lighthouse Gallery](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/lighthouse-gallery.png)
 
+  - The site has been tested on different browsers (Chrome, Firefox, Opera) and performs as expected on all.
+  - Most testing during coding was done on Chrome.
+
 
 ### Validator Testing 
 
