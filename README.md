@@ -111,9 +111,9 @@ As this is not a real business, there is no reference to where the reviews come 
   - All images have been resized in order to maintain a good quality, but speed up loading times.
   - The site has been tested with Lighthouse and passes well above 90 in each category.
 
-![Lighthouse Index]()
+![Lighthouse Index](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/lighthouse-index.png)
 
-![Lighthouse Gallery]()
+![Lighthouse Gallery](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/lighthouse-gallery.png)
 
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
