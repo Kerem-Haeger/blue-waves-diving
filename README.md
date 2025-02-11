@@ -45,6 +45,7 @@ In this section, you should go over the different parts of your project, and des
 
   - This section is the hero section and is meant to catch the users eye with a stunning graphic, depicting a possible encounter while diving.
   - A catchy headline and sub-headline should get the user into the right mindset to want to explore more
+  - The hero section takes up 90% of the screen on all devices, in order to show the user what comes next and encourage scrolling down.
 
 ![Hero Section](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/hero-section.png)
 
