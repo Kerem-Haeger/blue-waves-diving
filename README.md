@@ -38,6 +38,7 @@ In this section, you should go over the different parts of your project, and des
 ![Nav Bar Small](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/nav-bar-small.png)
 
   - In addition, a "Back to top" Button helps users return to the nav bar on small screens, as the navigation does not stay in the field of view.
+  - As the "Back to top" button is only visible on small screens, such as phone screens, it does not have a hover function. The design and placement indicates its function and should be recognised by users.
 
 ![Back to top button](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/scroll-up-button.png)
 
@@ -97,6 +98,12 @@ As this is not a real business, there is no reference to where the reviews come 
 
 ## Testing 
 
+- __Responsiveness__
+
+  - Extensive testing was done regarding responsiveness of the website. This is due to approach of "mobile first" development, and thus styles had to be changed using media queries, which required constant tests with different screen sizes.
+  - Testing of different screensizes was done via the devtools in browsers, as well as on the actual devices (iPhone, iPad, Laptop) and the site reacts as intended on all.
+
+
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
@@ -109,9 +116,15 @@ If this section grows too long, you may want to split it off into a separate fil
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkerem-haeger.github.io%2Fblue-waves-diving%2Findex.html)
+  - This was repeated with gallery.html an success.html and no errors were found
+
+![W3C Validator](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/html-validator-index.png)
+
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkerem-haeger.github.io%2Fblue-waves-diving%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+![W3C Validator](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/css-validation.png)
 
 ### Unfixed Bugs
 
