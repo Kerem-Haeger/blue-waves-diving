@@ -48,12 +48,16 @@ In this section, you should go over the different parts of your project, and des
 
 ![Hero Section](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/hero-section.png)
 
-- __Club Ethos Section__
+- __About Us Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The About Us section consists of two parts and is essential to the webiste.
+  - First of all it introduces the center and its morals, such as an environmentally friendly approach to diving, providing certified instructors by PADI, which should put the users mind at ease when considering booking with the center.
+  - The second important part of the About Us section is "What we offer". Here the user can see the different options they have as well as the prices at a glance.
+  - The About Us section is very responsive and collapses on small screens in order to maximise readability.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![About Us](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/about-us-section.png)
+
+![Pricing](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/pricing-about-us-section.png)
 
 - __Meetup Times section__
 
