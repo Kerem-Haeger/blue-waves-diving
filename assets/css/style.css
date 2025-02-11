@@ -135,8 +135,8 @@ td {
 }
 
 /* Testimonials section */
-#testimonials {
-    background-color: rgb(135, 206, 250);
+/*#testimonials {
+    background-color: #cafdf4;
 }
 
 #testimonials > h2 {
@@ -154,6 +154,47 @@ td {
     border-radius: 50%;
     height: 80px;
     width: 80px;
+}*/
+
+#testimonials {
+    background-color: #cafdf4;
+    padding: 20px 0;
+}
+
+#testimonials > h2 {
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.reviews {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.review-1, .review-2, .review-3 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 15px;
+    border: 1px solid #1fa5b4;
+    max-width: 600px;
+}
+
+.reviews img {
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    flex-shrink: 0;
+}
+
+.reviews p {
+    max-width: 400px;
+    margin: 0;
+    line-height: 1.5;
 }
 
 /* Gallery section on index */
@@ -440,6 +481,11 @@ textarea {
         flex-direction: row;
         align-items: start;
         justify-content: space-evenly;
+    }
+
+    /* Testimonials */
+    .review-2 {
+        margin-right: 0;
     }
 
     /* Gallery page */
