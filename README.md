@@ -102,6 +102,12 @@ As this is not a real business, there is no reference to where the reviews come 
 
   - Extensive testing was done regarding responsiveness of the website. This is due to approach of "mobile first" development, and thus styles had to be changed using media queries, which required constant tests with different screen sizes.
   - Testing of different screensizes was done via the devtools in browsers, as well as on the actual devices (iPhone, iPad, Laptop) and the site reacts as intended on all.
+  - Media queries were limited, as the design of the webiste works well on screens of 768px or above and would not need to be changed much on any screen above that.
+  However, a limit to the size of some sections has been applied, in order to not overwhelm the user with solid colours.
+
+- __Functionality__
+
+  - The functionality of all links has been rigorously tested on all pages and work smoothly, thanks to smooth transitions.
 
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
