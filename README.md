@@ -11,6 +11,7 @@ __Intended Targets__
 - New visitors:
   - New vistors should get excited about what the center offers.
   - If they are new to scuba diving, they should feel comfortable starting this journey with the center and also be able to see the pricing.
+  - New visitors can easily see reviews and testimonials left by previous customers.
   - If they are divers they should be able to see what the center offers in terms of pricing and diving via the gallery.
   - New visitors should be able to get in touch with the center easily and give all necessary information in the contact form.
 
