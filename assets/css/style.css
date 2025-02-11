@@ -208,22 +208,6 @@ td {
     justify-content: center;
 }
 
-/* Why is it showing up below "About us"???
-#gallery::after {
-    content: '';
-    position: absolute;
-    bottom: -50px;
-    left: 0;
-    width: 100%;
-    height: 50px;
-    background: linear-gradient(
-    to bottom, 
-    rgba(135, 206, 250, 1) 0%, 
-    rgba(135, 206, 250, 0) 100%
-  );
-}
-*/
-
 /* Contact section */
 /* work on this! */
 #contact {
