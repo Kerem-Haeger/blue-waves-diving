@@ -17,7 +17,6 @@ body, html {
 /* Header on small screens */
 header {
     box-shadow: 0 2px 2px #3a3a3a; /* Work on Box Shadow! */
-    z-index: 98;
 }
 
 .nav-icon {
@@ -176,6 +175,7 @@ td {
 }
 
 .review-1, .review-2, .review-3 {
+    box-shadow: 0 2px 2px #3a3a3a;
     display: flex;
     align-items: center;
     gap: 20px;
