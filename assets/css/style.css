@@ -134,35 +134,13 @@ td {
 }
 
 /* Testimonials section */
-/*#testimonials {
-    background-color: #cafdf4;
-}
-
-#testimonials > h2 {
-    text-align: center;
-    padding: 1rem 0;
-}
-
-.reviews {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 20px;
-}
-
-.reviews img {
-    border-radius: 50%;
-    height: 80px;
-    width: 80px;
-}*/
-
 #testimonials {
     background-color: #cafdf4;
     padding: 20px 0;
 }
 
 #testimonials > h2 {
-    text-align: center;
-    padding: 1rem 0;
+    padding: 1rem;
 }
 
 .reviews {
@@ -485,6 +463,10 @@ textarea {
     }
 
     /* Testimonials should be in a row on larger screens */
+    #testimonials > h2 {
+        text-align: center;
+    }
+
     .reviews {
         display: flex;
         flex-direction: row;
