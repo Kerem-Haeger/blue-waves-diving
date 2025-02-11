@@ -484,9 +484,21 @@ textarea {
         justify-content: space-evenly;
     }
 
-    /* Testimonials */
-    .review-2 {
-        margin-right: 0;
+    /* Testimonials should be in a row on larger screens */
+    .reviews {
+        display: flex;
+        flex-direction: row;
+        gap: 20px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+    
+    .review-1, .review-2, .review-3 {
+        flex: 1; 
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        padding: 15px;
     }
 
     /* Gallery page */
