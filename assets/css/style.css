@@ -281,6 +281,15 @@ textarea {
     position: relative;
 }
 
+.response-container {
+    background-color: rgba(0, 0, 0, .5);
+    color: #fafafa;
+    max-width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
 
 
 /* dropdown menu in gray, to ensure text is visible*/
