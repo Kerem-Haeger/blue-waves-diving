@@ -6,7 +6,7 @@ Blue Waves Diving is a site that advertises the services of a Scuba Diving Cente
 
 Utilising an about section including easy to locate pricing for beginners and experienced divers, as well as a gallery page to get visitors in the mood for the experience, the goal is to attract clients and make them want to get in touch and dive with the dive center.
 
-![Responsive Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsive Mockup](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/responsive-design.png)
 
 __Intended Targets__
 
