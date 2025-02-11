@@ -1,7 +1,5 @@
 # Blue Waves Diving
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
-
 Blue Waves Diving is a site that advertises the services of a Scuba Diving Center named Blue Waves Diving. The site will be targeted to first time visitors as well as returning customers who seek more information or to get in touch. It will be useful to get divers and non-divers alike excited about the diving and dive spots Blue Waves Diving offers with the ultimate goal to generate more business for the dive center.
 
 Utilising an about section including easy to locate pricing for beginners and experienced divers, as well as a gallery page to get visitors in the mood for the experience, the goal is to attract clients and make them want to get in touch and dive with the dive center.
@@ -21,8 +19,6 @@ __Intended Targets__
   - They can easily get in touch with the center to organise a future dive as well as remind themselves of what is offered and how much it costs.
 
 ## Features 
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Existing Features
 
@@ -142,11 +138,7 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 
 The live link can be found here - https://kerem-haeger.github.io/blue-waves-diving/index.html
 
-## Credits 
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+## Credits  
 
 ### Content 
 
