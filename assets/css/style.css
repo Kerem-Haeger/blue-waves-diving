@@ -288,7 +288,7 @@ textarea {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding: 25px 20px;
+    padding: 15px 20px;
 }
 
 .back-button, .back-button:visited {
@@ -296,6 +296,7 @@ textarea {
     color: #fafafa;
     text-decoration: none;
     padding: 15px 32px;
+    margin: 15px 0;
 }
 
 .back-button:hover {
