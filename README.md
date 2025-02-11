@@ -92,7 +92,7 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ### Features Left to Implement
 
-- Another feature idea
+- An addition that will make the website more user friendly and trustworthy is a Reviews Section, where the user can read about what other peopel have said about the center previously.
 
 ## Testing 
 
