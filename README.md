@@ -28,10 +28,18 @@ In this section, you should go over the different parts of your project, and des
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - Featured across the site and all pages. The navigation bar is kept simple as to facilitate easy navigation across the site.
+  - As most of the site is in one page, the navigation bar stays on top in order to make navigating the different sections easier.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/nav-bar-large.png)
+
+  - On small screens, the navigation bar collapses into a Hamburger Menu to not take up as much space on the screen. 
+
+![Nav Bar Small](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/nav-bar-small.png)
+
+  - In addition, a "Back to top" Button helps users return to the nav bar on small screens, as the navigation does not stay in the field of view.
+
+![Back to top button](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/scroll-up-button.png)
 
 - __The landing page image__
 
