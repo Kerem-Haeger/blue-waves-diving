@@ -140,6 +140,28 @@ td {
     width: 100%;
 }
 
+/* Testimonials section */
+#testimonials {
+    background-color: rgb(135, 206, 250);
+}
+
+#testimonials > h2 {
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.reviews {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.reviews img {
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+}
+
 /* Gallery section on index */
 #gallery {
     background-color: rgb(135, 206, 250);
@@ -212,11 +234,6 @@ td {
     justify-content: center;
 }
 
-#testimonials {
-    text-align: center;
-    padding: 1rem 0;
-}
-
 /* Contact section */
 /* work on this! */
 #contact {
@@ -268,6 +285,11 @@ textarea {
     color: #1fa5b4;
 }
 
+/* dropdown menu in gray, to ensure text is visible*/
+select option {
+    background-color: #383838;
+}
+
 /* Textarea should not be limited by input-field height */
 textarea {
     background: transparent;
@@ -277,11 +299,6 @@ textarea {
     border: 1px solid #fafafa;
     border-radius: 2px;
     padding: 0 5px;
-}
-
-/* dropdown menu in gray, to ensure text is visible*/
-select option {
-    background-color: #383838;
 }
 
 /* Success page after signing up */
@@ -409,12 +426,6 @@ select option {
         justify-content: center;
     }
 
-    /*.about-container {
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: center; 
-    }*/
-
     .about-content {
         width: 45%;
         margin: 10px;
@@ -463,6 +474,13 @@ select option {
 
         /* Gallery Section */
         #gallery {
+            max-width: 78%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        /* Testimonials section */
+        #testimonials {
             max-width: 78%;
             margin-left: auto;
             margin-right: auto;
