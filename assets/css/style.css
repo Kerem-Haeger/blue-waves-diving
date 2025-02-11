@@ -261,7 +261,7 @@ td {
 .contact-form {
     background-color: rgba(0, 0, 0, .5);
     color: #ffffff;
-    padding: 0 10px 10px 10px;
+    padding: 0 10px 10px 20px;
     margin: 15px;
     border-radius: 2px;
 }
