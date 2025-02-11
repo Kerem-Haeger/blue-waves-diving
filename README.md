@@ -143,6 +143,15 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 
 The live link can be found here - https://kerem-haeger.github.io/blue-waves-diving/index.html
 
+### Local Deployment
+
+In order to make a local copy of this project, you can clone it.
+In your IDE Terminal, type the following command to clone my repository:
+
+- `git clone https://github.com/kerem-haeger/blue-waves-diving.git`
+
+- Alternatively, if you use Gitpod, you can [click here](https://gitpod.io/#https://github.com/kerem-haeger/blue-waves-diving.git), which will start the Gitpod workspace for you.
+
 ### Note
 
 - I am aware that the commit messages were inconsistent in the beginning and have hopefully improved over time. A big thank you to my [tutor](https://github.com/IuliiaKonovalova), who pointed me in the right direction regarding when to commit and how to use commit messages.
