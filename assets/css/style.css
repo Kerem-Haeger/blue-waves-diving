@@ -46,6 +46,10 @@ header {
     text-decoration: none;
 }
 
+.nav-link:visited {
+    color: #383838;
+}
+
 /* Main  */
 /* Home Section */
 #home { 
@@ -358,7 +362,8 @@ select option {
         z-index: 99;
     }
     
-    .nav-link {
+    /* Ensure that links are correct color */
+    .nav-link, .nav-link:visited {
         color: white;
         text-decoration: none;
         padding: 20px 40px;
@@ -370,7 +375,6 @@ select option {
         letter-spacing: 2px;
     }
     
-    /* Work on this */
     .nav-link:hover, .nav-link:active {
         background-color: white; 
         color: #1fa5b4;
