@@ -163,6 +163,7 @@ In your IDE Terminal, type the following command to clone my repository:
 - The text for the About section was written by myself, as I am a scuba diving instructor and used to work for a diving center.
 - The icons in the footer, the hamburger menu, the "Back to top" button, were taken from [Font Awesome](https://fontawesome.com/)
 - As mentioned above, the footer html was taken and adjusted from the "Love Running" project, which can be found here - https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/index.html
+- For some code, [W3Schools](https://www.w3schools.com/), as well as [MDN Web Docs](https://developer.mozilla.org/en-US/) were used as a reminder.
 
 ### Media
 
