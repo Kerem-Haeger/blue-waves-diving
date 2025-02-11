@@ -288,14 +288,19 @@ textarea {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding: 20px;
+    padding: 25px 20px;
 }
 
-.back-button, .back-button > a:visited {
+.back-button, .back-button:visited {
     background-color: #1fa5b4;
     color: #fafafa;
     text-decoration: none;
     padding: 15px 32px;
+}
+
+.back-button:hover {
+    background-color: #fafafa;
+    color: #1fa5b4;
 }
 
 /* dropdown menu in gray, to ensure text is visible*/
