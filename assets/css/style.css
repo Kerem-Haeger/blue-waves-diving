@@ -276,6 +276,10 @@ td {
     border-radius: 2px;
 }
 
+.contact-form h2 {
+    padding: 1em 0;
+}
+
 .input-field {
     background: transparent;
     color: #fafafa;
