@@ -16,7 +16,7 @@
 
 /* Header on small screens */
 header {
-    position: fixed; /* If header should stay at the top change to position:fixed */
+    position: fixed; /* If header should stay at the top change to position:relative */
     background-color: #ffffff;
     width: 100%;
     box-shadow: 0 2px 4px rgba(58, 58, 58, 0.4);
