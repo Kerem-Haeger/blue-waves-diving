@@ -84,6 +84,10 @@ h3 {
     font-weight: 200;
 }
 
+#title h1, #title h3 {
+    padding: .5em 0 .7em 0;
+}
+
 /* About */
 #about {
     color: #383838;
