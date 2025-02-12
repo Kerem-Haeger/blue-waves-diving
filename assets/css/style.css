@@ -87,6 +87,7 @@ h3 {
 /* About */
 #about {
     color: #383838;
+    margin-top: 1rem;
 }
 
 #about > div {
