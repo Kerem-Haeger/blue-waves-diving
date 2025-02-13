@@ -155,6 +155,7 @@ td {
     display: flex;
     align-items: center;
     gap: 20px;
+    overflow: auto;
     padding: 15px;
     border: 1px solid #1fa5b4;
     border-radius: 7px;
