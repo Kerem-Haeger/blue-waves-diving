@@ -94,6 +94,7 @@ As this is not a real business, there is no reference to where the reviews come 
 - Information about dive spots could be included with an interactive map.
 - Returning users could be able to leave a review directly on the webiste.
 - A more interactive Gallery section/page would enhance the experience, such as a slideshow, or cards which can be navigated by the user.
+- The contact form currently does not do anything, except lead the user to a 'Success'page, confirming receipt of their information. In order for the form to be useful, it should send the information to the dive center, which can be implemented, once the course continues (please also see Unfixed Bugs)
 
 ## Testing 
 
@@ -133,7 +134,11 @@ As this is not a real business, there is no reference to where the reviews come 
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+- Contact section
+  - Currently, the contact form will only refer the user to a 'Success' page, stating that the center will get back to them ASAP.
+  - This method uses 'GET', which is not ideal as it leaves confidential information in the URL.
+  - This bug can not be fixed at the moment, as I we have not covered databases or similar in the course.
+  - Please also see Features Left to Implement
 
 ## Deployment
 
