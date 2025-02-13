@@ -107,27 +107,6 @@ h3 {
     height: 50vw;
 }
 
-/*
-.top-about {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
-.bottom-about {
-    display: flex;
-    flex-direction: row-reverse;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
-.about-content {
-    margin: 10px 0;
-    width: 100%;
-}
-    */
-
 .about-container {
     display: flex;
     flex-wrap: wrap;
@@ -468,18 +447,6 @@ textarea {
         display: flex;
         justify-content: center;
     }
-
-    /*
-    .about-content {
-        width: 45%;
-        margin: 10px;
-    }
-
-    .top-about , .bottom-about {
-        display: flex;
-        align-items: center;
-    }
-        */
     
     .about-item {
         max-width: 450px;
