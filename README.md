@@ -93,6 +93,7 @@ Further, the user should be able to cycle through the reviews via buttons on eac
 As this is not a real business, there is no reference to where the reviews come from, however, this could be implemented, and the reviews could be made clickable to direct the user to Google Reviews or similar.
 - Information about dive spots could be included with an interactive map.
 - Returning users could be able to leave a review directly on the webiste.
+- A more interactive Gallery section/page would enhance the experience, such as a slideshow, or cards which can be navigated by the user.
 
 ## Testing 
 
@@ -164,6 +165,7 @@ In your IDE Terminal, type the following command to clone my repository:
 - The icons in the footer, the hamburger menu, the "Back to top" button, were taken from [Font Awesome](https://fontawesome.com/)
 - As mentioned above, the footer html was taken and adjusted from the "Love Running" project, which can be found here - https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/index.html
 - For some code, [W3Schools](https://www.w3schools.com/), as well as [MDN Web Docs](https://developer.mozilla.org/en-US/) were used as a reminder.
+- As a reminder for flexbox, this [YouTube Video](https://www.youtube.com/watch?v=fYq5PXgSsbE&t=1s) was helpful.
 
 ### Media
 
