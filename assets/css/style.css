@@ -492,6 +492,7 @@ textarea {
     }
 
     .dive-center-image, .dive-boat-image {
+        object-fit: cover;
         max-height: 250px;
         width: auto;
     }
