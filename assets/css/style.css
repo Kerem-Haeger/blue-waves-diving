@@ -216,9 +216,8 @@ td {
     top: 100%;
     left: 50%;
     margin-left: -5px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: black transparent transparent transparent;
+    border: 5px solid transparent;
+    border-top-color: black;
 }
   
 .tooltip:hover .tooltiptext {
