@@ -380,7 +380,7 @@ textarea {
 /* Footer */
 #social-networks {
     text-align: center;
-    padding: 5px 0;
+    padding: 15px 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
