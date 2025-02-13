@@ -548,24 +548,9 @@ textarea {
 
 @media screen and (min-width: 992px) {
 
-        /* Gallery Section */
-        #gallery {
+        /* Apply max-width to sections */
+        #gallery, #testimonials, #contact {
             max-width: 78%;
-            margin-left: auto;
-            margin-right: auto;
-        }
-
-        /* Testimonials section */
-        #testimonials {
-            max-width: 78%;
-            margin-left: auto;
-            margin-right: auto;
-        }
-
-        /* Contact Section */
-        #contact {
-            max-width: 78%;
-            margin-left: auto;
-            margin-right: auto;
+            margin: 0 auto;
         }
 }
