@@ -107,6 +107,7 @@ h3 {
     height: 50vw;
 }
 
+/*
 .top-about {
     display: flex;
     flex-direction: row;
@@ -124,6 +125,19 @@ h3 {
 .about-content {
     margin: 10px 0;
     width: 100%;
+}
+    */
+
+.about-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+    gap: 1em;
 }
 
 table {
@@ -449,11 +463,13 @@ textarea {
         width: fit-content;
     }
 
+    /* About section */
     #about-heading, #offers-heading {
         display: flex;
         justify-content: center;
     }
 
+    /*
     .about-content {
         width: 45%;
         margin: 10px;
@@ -462,6 +478,17 @@ textarea {
     .top-about , .bottom-about {
         display: flex;
         align-items: center;
+    }
+        */
+    
+    .about-item {
+        max-width: 450px;
+        flex-basis: 450px;
+        flex: 0 1 auto;
+    }
+
+    .item-3 {
+        order: 1;
     }
 
     .dive-center-image, .dive-boat-image {
