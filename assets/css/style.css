@@ -258,6 +258,7 @@ td {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    overflow: auto;
 }
 
 .contact-form {
