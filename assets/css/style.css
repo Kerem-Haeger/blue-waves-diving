@@ -236,18 +236,34 @@ td {
 
 #gallery-cover-bg {
     background: url("../images/underwater-photography.jpg") no-repeat top center / cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
     border-radius: 50%;
     max-width: 300px;
     max-height: 300px;
+    color: #fff;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.8);
 }
 
 #gallery-cover {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+#gallery-cover a:visited {
+    color: inherit;
+    text-decoration: none;
+}
+
+.gallery-text {
+    position: absolute;
+    top: 20%;
+    font-size: 1.6em;
 }
 
 /* Contact section */
@@ -485,7 +501,7 @@ select option {
 
     /* Scale up gallery image for better UX */
     #gallery-cover-bg:hover {
-        transform: scale(1.1);
+        transform: scale(1.05);
         cursor: pointer;
     }
 
