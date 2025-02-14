@@ -23,6 +23,10 @@ __Intended Targets__
 
 ### Existing Features
 
+- __General__
+
+  - The site is built to mimic colour and light changes under water, meaning from brighter sections, we go lower, to darker, more coloured sections.
+
 - __Navigation Bar__
 
   - Featured across the site and all pages. The navigation bar is kept simple as to facilitate easy navigation across the site.
