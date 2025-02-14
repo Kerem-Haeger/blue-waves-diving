@@ -483,6 +483,12 @@ select option {
         padding: 15px;
     }
 
+    /* Scale up gallery image for better UX */
+    #gallery-cover-bg:hover {
+        transform: scale(1.1);
+        cursor: pointer;
+    }
+
     /* Gallery page */
     #photos {
         column-count: 3;
