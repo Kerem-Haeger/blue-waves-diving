@@ -284,8 +284,20 @@ td {
 }
 
 textarea {
+    background: transparent;
+    color: #fafafa;
+    width: 80%;
     max-width: 350px;
+    height: 100px; /* Set height so it doesn't shrink */
     max-height: 100px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 5px;
+    resize: none; /* Prevent resizing */
+    overflow-y: auto; /* Enable vertical scrolling if needed */
+    word-wrap: break-word;
+    white-space: pre-wrap;
 }
 
 .button {
@@ -308,17 +320,6 @@ textarea {
 /* dropdown menu in gray, to ensure text is visible*/
 select option {
     background-color: #383838;
-}
-
-/* Textarea should not be limited by input-field height */
-textarea {
-    background: transparent;
-    color: #fafafa;
-    width: 80%;
-    margin: 5px 0 20px 0;
-    border: 1px solid #fafafa;
-    border-radius: 2px;
-    padding: 0 5px;
 }
 
 /* Success page after signing up */
