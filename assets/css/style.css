@@ -290,7 +290,20 @@ td {
     justify-content: center;
     margin: 2rem auto;
     font-size: 1.3em;
+}
+
+#call-to-action a {
+    background-color: #1fa5b4;
+    color: #fff;
+    padding: 1rem;
+    margin-top: 0.5rem;
     text-decoration: none;
+}
+
+#call-to-action a:hover {
+    background-color: #fff;
+    color: #1fa5b4;
+    box-shadow: 0 2px 4px rgba(58, 58, 58, 0.4);
 }
 
 /* Contact section */
