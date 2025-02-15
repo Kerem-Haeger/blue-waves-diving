@@ -131,6 +131,8 @@ As this is not a real business, there is no reference to where the reviews come 
 
 ![W3C Validator](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/html-validator-index.png)
 
+
+
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkerem-haeger.github.io%2Fblue-waves-diving%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
