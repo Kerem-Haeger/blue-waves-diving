@@ -136,6 +136,15 @@ As this is not a real business, there is no reference to where the reviews come 
 
 ![W3C Validator](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/css-validation.png)
 
+## Technologies Used
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add the styles and layout of the site.
+- [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - was used to arrange items on the pages.
+- [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/grid) - was used to make "gallery" and "contact" pages responsive.
+- [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
+- [GitHub](https://github.com/) was used to host the code of the website.
+
 ### Unfixed Bugs
 
 - Contact section
