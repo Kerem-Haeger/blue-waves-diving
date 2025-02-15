@@ -1,6 +1,6 @@
 # Blue Waves Diving
 
-Blue Waves Diving is a site that advertises the services of a Scuba Diving Center named Blue Waves Diving. The site will be targeted to first time visitors as well as returning customers who seek more information or to get in touch. It will be useful to get divers and non-divers alike excited about the diving and dive spots Blue Waves Diving offers with the ultimate goal to generate more business for the dive center.
+[Blue Waves Diving](https://kerem-haeger.github.io/blue-waves-diving/index.html) is a site that advertises the services of a Scuba Diving Center named Blue Waves Diving. The site will be targeted to first time visitors as well as returning customers who seek more information or to get in touch. It will be useful to get divers and non-divers alike excited about the diving and dive spots Blue Waves Diving offers with the ultimate goal to generate more business for the dive center.
 
 Utilising an about section including easy to locate pricing for beginners and experienced divers, as well as a gallery page to get visitors in the mood for the experience, the goal is to attract clients and make them want to get in touch and dive with the dive center.
 
