@@ -283,6 +283,16 @@ td {
     font-size: 1.6em;
 }
 
+#call-to-action {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem auto;
+    font-size: 1.3em;
+    text-decoration: none;
+}
+
 /* Contact section */
 #contact {
     background: url("../images/mask-sunset.jpg") no-repeat center center/cover;
