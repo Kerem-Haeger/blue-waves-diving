@@ -283,6 +283,7 @@ td {
     font-size: 1.6em;
 }
 
+/* Call to action below images in gallery to lead back to contact form */
 #call-to-action {
     display: flex;
     flex-direction: column;
