@@ -404,6 +404,10 @@ select option {
     color: rgb(30, 164, 179);
 }
 
+footer a:hover {}
+
+/* Make hover event!*/
+
 /* Button to scroll back to the menu*/
 .scroll-top {
     position: fixed;
