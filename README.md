@@ -149,6 +149,13 @@ As this is not a real business, there is no reference to where the reviews come 
 - [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
 - [GitHub](https://github.com/) was used to host the code of the website.
 
+### Fixed Bugs
+
+- The 'Scroll Up' Button was barely visible on some images, so I needed to add a white background to it.
+- The Gallery section on the main page was not UX friendly enough, so I added an enlarging effect, as well as a box-shadow, a text over it, and a tooltip, to make it obious that it is clickable.
+- The about us section caused some issues, as the second image should be the third item when the screen is larger, so I used 'order' when styling the flexbox.
+- The social network links weren't obviously clickable, so I added a box-shadow when hovered.
+
 ### Unfixed Bugs
 
 - Contact section
