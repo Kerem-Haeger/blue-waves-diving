@@ -405,7 +405,7 @@ select option {
 }
 
 /* Make hover event!*/
-footer a:hover {
+#social-networks a i:hover {
     color: #a0e1e8;
 }
 
