@@ -129,9 +129,11 @@ As this is not a real business, there is no reference to where the reviews come 
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkerem-haeger.github.io%2Fblue-waves-diving%2Findex.html)
   - This was repeated with gallery.html an success.html and no errors were found
 
-![W3C Validator](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/html-validator-index.png)
+![W3C Validator Index](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/html-validator-index.png)
 
+![W3C Validator Gallery](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/html-validator-gallery.png)
 
+![W3C Validator Success](https://github.com/Kerem-Haeger/blue-waves-diving/blob/main/documentation/html-validator-index.png)
 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkerem-haeger.github.io%2Fblue-waves-diving%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
