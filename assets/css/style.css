@@ -439,7 +439,6 @@ select option {
 
 /* Make hover event!*/
 #social-networks a i:hover {
-    /*color: #a0e1e8;*/
     background-color: #f0f0f0;
     position: relative;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
